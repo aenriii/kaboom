@@ -1,6 +1,6 @@
 [package]
 name = "kaboom"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 description = "Simple and Intuitive library for Next-Gen application exiting"
 license = "CC-PDDC"
