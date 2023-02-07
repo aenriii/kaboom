@@ -3,7 +3,7 @@ name = "kaboom"
 version = "1.0.0"
 edition = "2021"
 description = "Simple and Intuitive library for Next-Gen application exiting"
-license = "Public Domain"
+license = "CC-PDDC"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
